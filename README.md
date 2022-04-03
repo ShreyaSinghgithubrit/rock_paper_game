@@ -1,2 +1,2 @@
 # rock_paper_game
-code by Shreya Singh.
+# code by Shreya Singh.
